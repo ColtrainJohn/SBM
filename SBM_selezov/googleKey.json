@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "picaweeklynews",
+  "private_key_id": "cf3551b88e1f6264e9d80346f9829b2c213ffc81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDmxkeKalq27Rh\ngxVd03qSprpqdV6dFJElYbkjT/UF0LOph0h3/O96NoyfQyQtmUnLQP9ahrUGmXA4\n6lbodAqyCUpZqInMJ6ATSuN1/vYTWNsl4ZnRTeUDqXddkwSRt/bssii4X0cwiYay\nNWAeReb6k0LG3ZFM3UQmt9hiwvMStozoZ/bqIG6xitl/HeuTHQwq9ulniKyNb1f3\niTmMevAo2KKGacF7Vi097nigaMBmbxASTmb1ArDH5cUb3Iq3t0iAdbFCSE6lFBh/\nDXv2Za98IsEDjNOH3GG3CLsgTlg1CDDc49R/61cFTvu65oqw2W7F9NJ8alm+0ESf\nWgnRKICnAgMBAAECggEAXkSA9mhdnYIEjHn/8hfZGpP/gw7NaiZfTQSrlLkT/Jl3\n/FuWMT1UrDFd0+MnrFITnkDUz2vcEjIgQ02sVJqYDPUtP8hZoGn4W1PcCyG0td48\nvyTaXGSN2hXx0MbpjNB7z9aMiU5hoKKmp3vRtsU5a8lMhUqCm+iGz6IKRo5tVraK\nautogyns0z5uc5IQ7064nvTAbAOtf+62rZSQC2d0G4WETqYQ/Zn8Se1X5HDk/Xhx\nlMR0dhMRkgkE5FCtQy3GHZEatzLwyWgiOba+SVivW3FD4a3ylrKGnp0lRuCkeM6A\nFJwJUFsLGxkzumcMyBGGKTMkAD3xGELgucsYLxz7AQKBgQD6Iay7JOOE8zUjEESs\n5/3cnwBbPgyhS6DKOf5zZhkKO5JMsXU7Hcqz1ip378uUMEzUek/XlWwc0rxsMVFm\nUAWpjyWswjfkERTbnDEd5s7rYa4vgB0jkxPFaTr8y6hknUzFetu8s/U8L3e1MXje\nuzG2zn4K1tIQwN9eWHvc+pXydQKBgQDIMe81r9HsGc1E8QyQXAQllGn7F43+Qls1\nlYH5gX2np0vIkfQCUL8jhYPsUJM9eRKMaSD7UQCZXPQ/6I2X7IhOL6IKqGpahtOR\nr4/q5imhLzM2UgLYo9FzcZEE2OFBdRT13L73iL+sbD3d2eBBfp4Bq8gdmehKXkP0\nkbsDpR7LKwKBgQCfdpp9UL4wAzEsInH13YzNexyqDrvUlLd0VVav0TZDfMj/Vd8M\nCikxT2cRwXGDDuvcRgHiyeL72SnAvAxN8tQ5TgZRxhwFrRIkE8aIbp4aF9MJe16Y\nUGq5XyX5Bglb46CPAY1XF09PyF9Dx79sF+FQzwIx/NQ9VAjTSAvnTGYOBQKBgDSf\ng5yeIdUpFx8XKdFMjr5+G7moAGgkcytLqIW4dxo5zJ7lVrnBFe01bG8S4xFWoPyN\nqeDF8x1dJMsjywxzXYUH2lVo3cP8CuMRvgfmBm1bJeASgLMHpMfuw0r944A8UY0r\nQHt60790GHMXkW5F5SzVRd4aFchurPg90mXr4oNPAoGBAPKa68hxnWKCTHfe11Lk\nGJRhbr6GnF053d1R2N1RF7GS5BxS9TGa9qe18d5vbqTx2HDUgo4EgyTjqhvf42mk\nvY/wS23B4UG/7lHm0omejsS7x4RX9CQ8V6x9Kr7yzYPiYkfiCGPp3ErWMIaLFcal\nylJfLPbe/hi5/8J2T3TGf7yc\n-----END PRIVATE KEY-----\n",
+  "client_email": "picaslave@picaweeklynews.iam.gserviceaccount.com",
+  "client_id": "103677071450682125118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/picaslave%40picaweeklynews.iam.gserviceaccount.com"
+}
