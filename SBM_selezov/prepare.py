@@ -42,16 +42,16 @@ def prepare_cmd(dataset: pd.DataFrame):
             'Пол': 'sex',
         })
     
-    ## Можно это не через эксель как то?
-    birth_day_correction = pd.read_excel(psq.birthDayCorrectionFile)
-    non_valid_patients = pd.read_excel(psq.nonValidPatientsFile)
+    # ## Можно это не через эксель как то?
+    # birth_day_correction = pd.read_excel(psq.birthDayCorrectionFile)
+    # non_valid_patients = pd.read_excel(psq.nonValidPatientsFile)
 
-    # Filter known patients
-    dataset = dataset.loc[~dataset['original_id'].isin(list(non_valid_patients['Идентификатор пациента']))]
+    # # Filter known patients
+    # dataset = dataset.loc[~dataset['original_id'].isin(list(non_valid_patients['Идентификатор пациента']))]
 
-    # Correct known errors 
-    for c in birth_day_correction.to_dict(orient='records'):
-        dataset.loc[dataset['original_id'] == c['Идентификатор пациента'], 'birthdate'] = c['Корректировка']
+    # # Correct known errors 
+    # for c in birth_day_correction.to_dict(orient='records'):
+    #     dataset.loc[dataset['original_id'] == c['Идентификатор пациента'], 'birthdate'] = c['Корректировка']
 
     # Merge regions
     regions = funKit.base_get(psq.getGeography)
